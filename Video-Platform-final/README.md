@@ -14,12 +14,7 @@ The project encompasses a range of features and technologies, including:
 - Rate Limiting: The application utilizes rate limiting mechanisms to prevent abuse and ensure fair usage of resources.
 - Video Streaming: The platform enables efficient video streaming, allowing users to watch videos seamlessly without interruptions.
 - Video Download: Users can download videos from the platform for offline viewing or storage purposes.
-- Video Processing: The project handles video processing tasks such as generating thumbnails and transcoding videos into different formats to accommodate various devices and resolutions.
-- Web Workers and Websockets (In Progress ⏳): The project is actively exploring the implementation of web workers and websockets to enhance real-time interactivity and improve the user experience.
-- Cloud Integrations (Planned ⏳): Future enhancements include integrating with popular cloud platforms other than AWS like GCP, and Azure to provide users with flexibility in choosing their preferred cloud storage solution.
-- Comprehensive Tests (Planned ⏳): The project aims to establish a robust testing framework to ensure code quality and prevent regressions.
-
-
+- Video Processing: The project handles video processing tasks such as generating thumbnails and transcoding 
 ## Challenges and Strengths
 During the development of the Video Platform project, several challenges and strengths were identified:
 
@@ -40,10 +35,3 @@ The Video Platform project utilizes the following technologies:
 - Node.js: A JavaScript runtime environment that enables server-side execution of JavaScript code, facilitating the backend functionalities.
 - React.js: A popular JavaScript library for building user interfaces, used to develop the frontend components of the Video Platform project.
 The project combines these technologies to provide a comprehensive and efficient video platform solution.
-
-## Core Contributors
-[Chris Nyambane](https://github.com/hanichris)
-[Emmanuel Chalo](https://github.com/Chalo1996)
-[Nick Nyanjui](https://github.com/n1klaus)
-
-© 2023
